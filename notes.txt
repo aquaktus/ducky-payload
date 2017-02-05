@@ -1,0 +1,2 @@
+//this is to download any file from github raw and save it in a file: runs on powershell windows
+wget "https://raw.githubusercontent.com/aquaktus/octo-rex-python/master/doStuff.py" -UseBasicParsing -O doStuff.py
